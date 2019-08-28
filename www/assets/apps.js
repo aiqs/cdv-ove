@@ -1,0 +1,1 @@
+$.getScript("https://www.neosantara.co.id/mobile-assets/cordova-plugin/overappbrowser.js");
